@@ -91,4 +91,4 @@ async def on_ready():
     bot.add_view(TicketMainView())
     bot.add_view(CloseTicketView())
 
-bot.run("MTQ5MTcwMDcxMjE4OTQ2NDcxNg.GA3HVl.nno55-oJsBjOKlzBf4nAs6MVYwRF4YiYRhL4Mo")
+bot.run("MTQ5MTc1NDQxNjY1NzkyNDI3OA.Gb_s7Y.QocG7a2on6CwiIsNtab21Zo_i7tLXtEAl21LqY")
